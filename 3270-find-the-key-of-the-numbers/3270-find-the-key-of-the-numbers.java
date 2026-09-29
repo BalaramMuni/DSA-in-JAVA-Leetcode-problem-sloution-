@@ -5,18 +5,13 @@ class Solution {
         String str1 = String.format("%04d", num1);
         String str2 = String.format("%04d", num2);
         String str3 = String.format("%04d", num3);
-        int i = 0;
-        while (i < 4) {
-            char a = str1.charAt(i);
-            char b = str2.charAt(i);
-            char c = str3.charAt(i);
-            char min = (char)Math.min(a, Math.min(b, c));
-            ans.append(min);
-            i++;
-        }
-    String val = ans.toString();
-    return Integer.parseInt(val);
         
+        for(int i=0;i<4;i++) {
+            char min = (char)Math.min(str1.charAt(i), Math.min( str2.charAt(i), str3.charAt(i) ));
+            ans.append(min);
+            
+        }
+    return Integer.parseInt(ans.toString());
 
     }
 }
