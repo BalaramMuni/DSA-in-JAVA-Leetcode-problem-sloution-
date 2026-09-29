@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/BalaramMuni/DSA-in-JAVA-Leetcode-problem-sloution-/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/BalaramMuni/DSA-in-JAVA-Leetcode-problem-sloution-/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/BalaramMuni/DSA-in-JAVA-Leetcode-problem-sloution-/tree/master/0268-missing-number) |
+| [3270-find-the-key-of-the-numbers](https://github.com/BalaramMuni/DSA-in-JAVA-Leetcode-problem-sloution-/tree/master/3270-find-the-key-of-the-numbers) |
 ## Stack
 |  |
 | ------- |
