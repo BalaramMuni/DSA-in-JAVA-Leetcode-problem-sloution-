@@ -27,7 +27,7 @@ class Solution {
                 sum += l2.val;
                 l2 = l2.next;
             }
-
+            
             if (sum >= 10) {
                 carry = sum / 10;
                 rem = sum % 10;
@@ -42,6 +42,5 @@ class Solution {
             curr.next = new ListNode(carry);
         }
         return ans.next;
-
     }
 }
