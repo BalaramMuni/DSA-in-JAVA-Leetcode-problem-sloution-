@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/BalaramMuni/DSA-in-JAVA-Leetcode-problem-sloution-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/BalaramMuni/DSA-in-JAVA-Leetcode-problem-sloution-/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/BalaramMuni/DSA-in-JAVA-Leetcode-problem-sloution-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/BalaramMuni/DSA-in-JAVA-Leetcode-problem-sloution-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2942-find-words-containing-character](https://github.com/BalaramMuni/DSA-in-JAVA-Leetcode-problem-sloution-/tree/master/2942-find-words-containing-character) |
 ## Hash Table
 |  |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/BalaramMuni/DSA-in-JAVA-Leetcode-problem-sloution-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/BalaramMuni/DSA-in-JAVA-Leetcode-problem-sloution-/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/BalaramMuni/DSA-in-JAVA-Leetcode-problem-sloution-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/BalaramMuni/DSA-in-JAVA-Leetcode-problem-sloution-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/BalaramMuni/DSA-in-JAVA-Leetcode-problem-sloution-/tree/master/0032-longest-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/BalaramMuni/DSA-in-JAVA-Leetcode-problem-sloution-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/BalaramMuni/DSA-in-JAVA-Leetcode-problem-sloution-/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/BalaramMuni/DSA-in-JAVA-Leetcode-problem-sloution-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/BalaramMuni/DSA-in-JAVA-Leetcode-problem-sloution-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/BalaramMuni/DSA-in-JAVA-Leetcode-problem-sloution-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Prefix Sum
 |  |
 | ------- |
