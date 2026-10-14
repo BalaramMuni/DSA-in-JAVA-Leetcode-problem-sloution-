@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/BalaramMuni/DSA-in-JAVA-Leetcode-problem-sloution-/tree/master/0633-sum-of-square-numbers) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/BalaramMuni/DSA-in-JAVA-Leetcode-problem-sloution-/tree/master/1232-check-if-it-is-a-straight-line) |
 | [3270-find-the-key-of-the-numbers](https://github.com/BalaramMuni/DSA-in-JAVA-Leetcode-problem-sloution-/tree/master/3270-find-the-key-of-the-numbers) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/BalaramMuni/DSA-in-JAVA-Leetcode-problem-sloution-/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Stack
 |  |
 | ------- |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/BalaramMuni/DSA-in-JAVA-Leetcode-problem-sloution-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/BalaramMuni/DSA-in-JAVA-Leetcode-problem-sloution-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/BalaramMuni/DSA-in-JAVA-Leetcode-problem-sloution-/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/BalaramMuni/DSA-in-JAVA-Leetcode-problem-sloution-/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Prefix Sum
 |  |
