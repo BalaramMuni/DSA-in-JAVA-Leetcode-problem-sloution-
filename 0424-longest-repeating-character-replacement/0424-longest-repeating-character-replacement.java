@@ -20,7 +20,7 @@ class Solution {
             while(diff>k){
                 int left = s.charAt(low);
                 freq[left]--;
-                 low++;
+                low++;
                 maxnum = max(freq);
                 len = high-low+1;
                 diff = len-maxnum;
