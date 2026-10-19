@@ -1,6 +1,6 @@
 class Solution {
     public boolean check(int have[] , int need[]){
-        for(int k=0;k< 256;k++){
+        for(int k=0;k< 128;k++){
             if(have[k] < need[k]){
                 return false;
             }
@@ -16,8 +16,8 @@ class Solution {
         int low = 0;
         int start=0;
         int min = Integer.MAX_VALUE;
-        int have[] = new int[256];
-        int need[] = new int[256];
+        int have[] = new int[128];
+        int need[] = new int[128];
         for(int i=0;i<t.length();i++){
             need[t.charAt(i)]++;
         }
