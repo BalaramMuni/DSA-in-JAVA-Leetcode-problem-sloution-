@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/BalaramMuni/DSA-in-JAVA-Leetcode-problem-sloution-/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/BalaramMuni/DSA-in-JAVA-Leetcode-problem-sloution-/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/BalaramMuni/DSA-in-JAVA-Leetcode-problem-sloution-/tree/master/0844-backspace-string-compare) |
+| [0876-middle-of-the-linked-list](https://github.com/BalaramMuni/DSA-in-JAVA-Leetcode-problem-sloution-/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/BalaramMuni/DSA-in-JAVA-Leetcode-problem-sloution-/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/BalaramMuni/DSA-in-JAVA-Leetcode-problem-sloution-/tree/master/0922-sort-array-by-parity-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/BalaramMuni/DSA-in-JAVA-Leetcode-problem-sloution-/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/BalaramMuni/DSA-in-JAVA-Leetcode-problem-sloution-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/BalaramMuni/DSA-in-JAVA-Leetcode-problem-sloution-/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/BalaramMuni/DSA-in-JAVA-Leetcode-problem-sloution-/tree/master/0203-remove-linked-list-elements) |
+| [0876-middle-of-the-linked-list](https://github.com/BalaramMuni/DSA-in-JAVA-Leetcode-problem-sloution-/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
