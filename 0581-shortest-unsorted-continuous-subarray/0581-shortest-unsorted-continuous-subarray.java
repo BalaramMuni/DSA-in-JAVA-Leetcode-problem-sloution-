@@ -12,5 +12,5 @@ class Solution {
             j--;
         }
         return i>=j?0:j-i+1;
-    }
+     }
 }
