@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/BalaramMuni/DSA-in-JAVA-Leetcode-problem-sloution-/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2235-add-two-integers](https://github.com/BalaramMuni/DSA-in-JAVA-Leetcode-problem-sloution-/tree/master/2235-add-two-integers) |
 | [3270-find-the-key-of-the-numbers](https://github.com/BalaramMuni/DSA-in-JAVA-Leetcode-problem-sloution-/tree/master/3270-find-the-key-of-the-numbers) |
+| [3360-stone-removal-game](https://github.com/BalaramMuni/DSA-in-JAVA-Leetcode-problem-sloution-/tree/master/3360-stone-removal-game) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/BalaramMuni/DSA-in-JAVA-Leetcode-problem-sloution-/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/BalaramMuni/DSA-in-JAVA-Leetcode-problem-sloution-/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Stack
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/BalaramMuni/DSA-in-JAVA-Leetcode-problem-sloution-/tree/master/0844-backspace-string-compare) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/BalaramMuni/DSA-in-JAVA-Leetcode-problem-sloution-/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/BalaramMuni/DSA-in-JAVA-Leetcode-problem-sloution-/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/BalaramMuni/DSA-in-JAVA-Leetcode-problem-sloution-/tree/master/3360-stone-removal-game) |
 ## Number Theory
 |  |
 | ------- |
